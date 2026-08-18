@@ -1,6 +1,6 @@
 # Hollandse Luchten Hackathon
 
-Welcome to the Hollandse Luchten Hackathon repository! This hackathon focuses on data analysis and AI-driven solutions for air quality monitoring using sensor data from Hollandse Luchten (https://hollandse-luchten.org/).
+Welcome to the Hollandse Luchten Hackathon repository! This hackathon focuses on data analysis and AI-driven solutions for air quality monitoring using sensor networks.
 
 ## Overview
 
@@ -48,14 +48,15 @@ This is provided to allow participants to focus on analysis and development rath
 
 ## Hackathon Format
 
-- **Duration**: 2 days
+- **Duration**: 1 day here, until next week thursday november 19th
 - **Team Size**: 2-4 participants per team (recommended)
 - **Output**: Working solution or prototype demonstrating your approach
 
 ## Contact
 
-For questions about the hackathon, please reach out to the organizing committee.
+For questions about the hackathon, please reach out to the organizing committee. 
+#TODO
 
 ---
 
-Good luck with your challenge! 🚀
+Good luck and have fun with your challenge! 
